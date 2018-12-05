@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/bai2/Documents/RL/Pendulum_Test/actor.model"
+all_model_checkpoint_paths: "/home/bai2/Documents/RL/Pendulum_Test/actor.model"
